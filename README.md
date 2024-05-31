@@ -5,7 +5,7 @@
 
 ## Integrantes
 - Douglas Gama de Oliveira
-- Felipe de Carvalho Xavier
+- [Felipe de Carvalho Xavier](https://github.com/FelipeCXavier)
 - Felipe dos Santos da Silva
 - Francine Aparecida Oliveira
 - Matheus de Almeida de Campos
